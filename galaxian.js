@@ -187,7 +187,7 @@ var Module = typeof Module !== 'undefined' ? Module : {};
     }
   
    }
-   loadPackage({"files": [{"filename": "/gfx/everything.png", "start": 0, "end": 7299, "audio": 0}], "remote_package_size": 7299, "package_uuid": "200e048a-e154-4e7d-8e18-ed2102b61642"});
+   loadPackage({"files": [{"filename": "/gfx/everything.png", "start": 0, "end": 7299, "audio": 0}], "remote_package_size": 7299, "package_uuid": "6753c834-1c1d-49da-b64b-3b671ee9d2af"});
   
   })();
   
