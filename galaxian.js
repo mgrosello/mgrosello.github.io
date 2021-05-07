@@ -187,7 +187,7 @@ var Module = typeof Module !== 'undefined' ? Module : {};
     }
   
    }
-   loadPackage({"files": [{"filename": "/gfx/everything.png", "start": 0, "end": 7299, "audio": 0}], "remote_package_size": 7299, "package_uuid": "5bbba54a-0e94-4db9-8d77-e8234f45fcea"});
+   loadPackage({"files": [{"filename": "/gfx/everything.png", "start": 0, "end": 7299, "audio": 0}], "remote_package_size": 7299, "package_uuid": "19aa2f33-ecfa-4f38-9721-2cd73e4849f3"});
   
   })();
   
@@ -6028,7 +6028,6 @@ var ASM_CONSTS = {
       return 0;
     }
 
-
   function _emscripten_get_num_gamepads() {
       // N.B. Do not call emscripten_get_num_gamepads() unless having first called emscripten_sample_gamepad_data(), and that has returned EMSCRIPTEN_RESULT_SUCCESS.
       // Otherwise the following line will throw an exception.
@@ -8380,7 +8379,6 @@ var asmLibraryArg = {
   "emscripten_get_device_pixel_ratio": _emscripten_get_device_pixel_ratio,
   "emscripten_get_element_css_size": _emscripten_get_element_css_size,
   "emscripten_get_gamepad_status": _emscripten_get_gamepad_status,
-  "emscripten_get_now": _emscripten_get_now,
   "emscripten_get_num_gamepads": _emscripten_get_num_gamepads,
   "emscripten_get_preloaded_image_data": _emscripten_get_preloaded_image_data,
   "emscripten_get_preloaded_image_data_from_FILE": _emscripten_get_preloaded_image_data_from_FILE,
